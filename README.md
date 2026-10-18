@@ -9,3 +9,5 @@ Projects per week, even if it's just one line at a time
  - ADHD friendly book reading wrapper
  - Jarvis-like bot
  - Snippet/Prototype Library
+ - Kanban Board App
+ 
