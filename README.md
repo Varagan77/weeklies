@@ -10,4 +10,4 @@ Projects per week, even if it's just one line at a time
  - Jarvis-like bot
  - Snippet/Prototype Library
  - Kanban Board App
- 
+ - Voice recognition commands (no-AI)
